@@ -1,7 +1,7 @@
 ## Description
 
 
-The program provides the user with an interactive text UI that allows them to apply a set of specified filters to an image of their choice. The filters include:two tone, three tone, sepia, posterize, adjust component, extreme contrast, horizontal flip, vertical flip, detect edges, and an improved detect edges. 
+This program provides the user with an interactive text UI that allows them to apply a set of specified filters to an image of their choice. The filters include:two tone, three tone, sepia, posterize, adjust component, extreme contrast, horizontal flip, vertical flip, detect edges, and an improved detect edges. 
 _________________________________________________________________________
 
 
