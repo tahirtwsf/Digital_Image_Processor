@@ -1,6 +1,3 @@
-Photoshop 2: Cimpl edition v1.0.0 - Freeware 2021-11-29
-
-
 ## Description
 
 
@@ -13,7 +10,7 @@ _________________________________________________________________________
 
 First, make sure that the version of Python installed on your machine is Python 3.7.4. Python can be downloaded from this link: https://www.python.org/downloads/windows/
 Pillow is also required for this program to function so ensure that you install it from this link: https://pypi.org/project/Pillow/#files (make sure you choose the cp37 version that corresponds to your machine).
-Finally, the Cimpl library can be obtained by contacting the SCE department at Carleton University. 
+Finally, the Cimpl library can be obtained by contacting the SCE department at Carlton University. 
 _________________________________________________________________________
 
 
